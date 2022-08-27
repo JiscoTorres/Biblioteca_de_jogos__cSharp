@@ -1,0 +1,16 @@
+C:\Users\JOAOFRANCISCO\source\repos\LPR - JOAOFRANCISCO\bin\Debug\LPR - JOAOFRANCISCO.exe.config
+C:\Users\JOAOFRANCISCO\source\repos\LPR - JOAOFRANCISCO\bin\Debug\LPR - JOAOFRANCISCO.exe
+C:\Users\JOAOFRANCISCO\source\repos\LPR - JOAOFRANCISCO\bin\Debug\LPR - JOAOFRANCISCO.pdb
+C:\Users\JOAOFRANCISCO\source\repos\LPR - JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.csproj.AssemblyReference.cache
+C:\Users\JOAOFRANCISCO\source\repos\LPR - JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOAOFRANCISCO\source\repos\LPR - JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.csproj.CoreCompileInputs.cache
+C:\Users\JOAOFRANCISCO\source\repos\LPR - JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.exe
+C:\Users\JOAOFRANCISCO\source\repos\LPR - JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.pdb
+C:\Users\JOAOFRANCISCO\Source\Repos\JOAOFRANCISCO\bin\Debug\LPR - JOAOFRANCISCO.exe.config
+C:\Users\JOAOFRANCISCO\Source\Repos\JOAOFRANCISCO\bin\Debug\LPR - JOAOFRANCISCO.exe
+C:\Users\JOAOFRANCISCO\Source\Repos\JOAOFRANCISCO\bin\Debug\LPR - JOAOFRANCISCO.pdb
+C:\Users\JOAOFRANCISCO\Source\Repos\JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.csproj.AssemblyReference.cache
+C:\Users\JOAOFRANCISCO\Source\Repos\JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOAOFRANCISCO\Source\Repos\JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.csproj.CoreCompileInputs.cache
+C:\Users\JOAOFRANCISCO\Source\Repos\JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.exe
+C:\Users\JOAOFRANCISCO\Source\Repos\JOAOFRANCISCO\obj\Debug\LPR - JOAOFRANCISCO.pdb
